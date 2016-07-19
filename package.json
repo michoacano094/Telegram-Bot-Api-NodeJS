@@ -33,6 +33,6 @@
     "type": "git",
     "url": "git://github.com/anonymous node/sails user/testTelegramBot.git"
   },
-  "author": "anonymous node/sails user",
-  "license": ""
+  "author": "Esteban Juarez Rodriguez",
+  "license": "MIT"
 }
